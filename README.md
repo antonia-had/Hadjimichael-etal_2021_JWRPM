@@ -1,5 +1,3 @@
-_your zenodo badge here_
-
 # Hadjimichael et al. 2021 JWRPM
 
 **Inferring water scarcity: do large-scale hydrologic and node-based water systems model representations of the Upper Colorado river basin lead to consistent vulnerability insights?**
