@@ -29,9 +29,8 @@ Hadjimichael, A., Yoon, J., Reed, P.M., Voisin, N., Xu, W., Inferring water scar
 
 ## Reproduce my experiment
 
-1. Install the software components required to conduct the experiment from [Contributing modeling software](#contributing-modeling-software)
-2. Download and install the supporting input data required to conduct the experiment from [Input data](#input-data)
-3. Run the following scripts in the `workflow` directory to re-create this experiment:
+1. Install all package dependencies listed in environment.yml using "conda env create --file environment.yml"
+2. Run the following script in the `workflow` directory to re-create this experiment:
 
 | Script Name | Description | How to Run |
 | --- | --- | --- |
