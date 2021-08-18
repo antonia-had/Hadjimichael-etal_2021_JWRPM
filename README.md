@@ -27,26 +27,8 @@ Hadjimichael, A., Yoon, J., Reed, P.M., Voisin, N., Xu, W., Inferring water scar
 | StateMod | 15.0 | https://github.com/OpenCDSS/cdss-app-statemod-fortran | - |
 | MOSART-WM | version | https://github.com/IMMM-SFA/wm | https://doi.org/10.5281/zenodo.1225343 |
 
-## Reproduce my experiment
+## Reproduce my figures
 
 1. Install all package dependencies listed in environment.yml using "conda env create --file environment.yml"
-2. Run the following script in the `workflow` directory to re-create this experiment:
+2. Execute all scripts in the `workflow` directory to re-create all paper figures
 
-| Script Name | Description | How to Run |
-| --- | --- | --- |
-| `step_one.py` | Script to run the first part of my experiment | `python3 step_one.py -f /path/to/inputdata/file_one.csv` |
-| `step_two.py` | Script to run the last part of my experiment | `python3 step_two.py -o /path/to/my/outputdir` |
-
-4. Download and unzip the output data from my experiment [Output data](#output-data)
-5. Run the following scripts in the `workflow` directory to compare my outputs to those from the publication
-
-| Script Name | Description | How to Run |
-| --- | --- | --- |
-| `compare.py` | Script to compare my outputs to the original | `python3 compare.py --orig /path/to/original/data.csv --new /path/to/new/data.csv` |
-
-## Reproduce my figures
-Use the scripts found in the `figures` directory to reproduce the figures used in this publication.
-
-| Script Name | Description | How to Run |
-| --- | --- | --- |
-| `generate_figures.py` | Script to generate my figures | `python3 generate_figures.py -i /path/to/inputs -o /path/to/outuptdir` |
