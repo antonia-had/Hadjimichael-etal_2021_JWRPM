@@ -1,12 +1,13 @@
-# Hadjimichael et al. 2021 JWRPM
+# Hadjimichael et al. 2023 JWRPM
 
 **Inferring water scarcity: do large-scale hydrologic and node-based water systems model representations of the Upper Colorado river basin lead to consistent vulnerability insights?**
 
-Antonia Hadjimichael<sup>1,*</sup>, Jim Yoon<sup>2</sup>, Patrick M. Reed<sup>1</sup>, Nathalie Voisin<sup>2</sup>, Wenwei Xu<sup>2</sup>
+Antonia Hadjimichael<sup>1,2*</sup>, Jim Yoon<sup>3</sup>, Patrick M. Reed<sup>4</sup>, Nathalie Voisin<sup>3</sup>, Wenwei Xu<sup>3</sup>
 
-<sup>1 </sup> Department of Geosciences, Pennsylvania State University, University Park, PA, USA
-<sup>2</sup> Pacific Northwest National Laboratory, Richland, WA, USA
-<sup>3 </sup> School of Civil and Environmental Engineering, Cornell University, Ithaca, NY, USA
+<sup>1 </sup> Department of Geosciences, The Pennsylvania State University, State College, PA, USA\
+<sup>2 </sup> Earth and Environmental Systems Institute (EESI), The Pennsylvania State University, State College, PA, USA\
+<sup>3</sup> Pacific Northwest National Laboratory, Richland, WA, USA\
+<sup>4 </sup> School of Civil and Environmental Engineering, Cornell University, Ithaca, NY, USA
 
 
 \* corresponding author:  hadjimichael@psu.edu
